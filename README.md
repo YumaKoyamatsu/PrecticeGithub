@@ -1,3 +1,2 @@
-# Free
-tht
-rtrtrtregrgrg
+# Practice Repository
+This is the repo. to practice Github.
